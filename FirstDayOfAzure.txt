@@ -1,0 +1,5 @@
+Check out some of the Azure repositories that provide sample resources:
+¡ Azure quick-start templates—https://github.com/Azure/azure-quickstart -templates
+¡ Azure CLI—https://github.com/Azure/azure-cli
+¡ Azure DevOps utilities—https://github.com/Azure/azure-devops-utils
+¡ Learn Azure in a Month of Lunches book resources—https://github.com/fouldsy/azure-mol-samples-2nd-ed
